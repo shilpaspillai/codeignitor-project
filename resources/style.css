@@ -1,0 +1,25 @@
+.input-error
+{
+    background-color:#b2dba1;
+    border: none;
+    color: floralwhite;
+}
+.input-errors
+{
+    background-color:#b2dba1;
+    border: none;
+    color: floralwhite;
+}
+#alertuser
+{
+ display: none;
+}
+.msgbox
+{
+    display:none;
+    color: red;
+}
+.container
+{
+    margin-top: 50px;
+}
